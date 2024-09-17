@@ -15,6 +15,12 @@ They are as follows:
 3. Left: 5, Right: 29, Target: 13 - outputs a 20-step solution
 4. Left: 3, Right: -1, Target: 0 - outputs a 1-step invalid solution
 
+In order, these showcase:
+1. A simple, solvable solution
+2. A unresolvable problem
+3. A complex, solvable solution
+4. Invalid parameters
+
 ## Endpoints
 This project exposes only one endpoint: JugState.
 
