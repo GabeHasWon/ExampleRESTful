@@ -1,5 +1,6 @@
 ﻿### Left: 2, Right: 9, Target: 5
 Output:
+```
 [
   {
     "step": 1,
@@ -26,9 +27,11 @@ Output:
     "descriptor": "Transfer from right to left (DONE)"
   }
 ]
+```
 
 ### Left: 15, Right: 3, Target: 4
 Output:
+```
 [
   {
     "step": 0,
@@ -37,9 +40,11 @@ Output:
     "descriptor": "No solution possible."
   }
 ]
+```
 
 ### Left: 28, Right: 3, Target: 13
 Output: 
+```
 [
   {
     "step": 1,
@@ -102,9 +107,11 @@ Output:
     "descriptor": "Transfer from right to left (DONE)"
   }
 ]
+```
 
 ### Left: -1, Right: 30, Target: 2
 Output:
+```
 [
   {
     "step": 0,
@@ -113,3 +120,4 @@ Output:
     "descriptor": "Target amount, left jug or right jug are equal to 0 or negative. Problem is impossible or already solved."
   }
 ]
+```
